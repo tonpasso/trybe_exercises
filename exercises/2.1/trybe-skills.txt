@@ -3,5 +3,8 @@ O que vou aprender na Trybe:
 - Bash
 - Unix
 - Git
+trybe-skills-updates
+- React
 - HTML
 - CSS
+master
