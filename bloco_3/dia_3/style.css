@@ -32,7 +32,7 @@ div:nth-of-type(2) h3 {
 }
 
 div:nth-of-type(3) {
-    font-style: italic;
+    font-variant: small-caps;
 }
 
 div:nth-of-type(4) {
@@ -42,6 +42,10 @@ div:nth-of-type(4) {
 div:nth-of-type(5) {
     font-size: 15px;
 }
+
+div:nth-of-type(2n+1) h3 {
+    font-style: italic;
+  }
 
 
 
