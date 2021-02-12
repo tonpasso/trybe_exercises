@@ -1,0 +1,52 @@
+div:hover {
+    border: 1px solid black;
+}
+
+div:nth-of-type(1) {
+    background-color: blue;
+}
+
+div:nth-of-type(2) {
+    background-color: red;
+}
+
+div:nth-of-type(3) {
+    background-color: #f2a154;
+    height: 80px;
+}
+
+div:nth-of-type(4) {
+    background-color: #161d6f;
+}
+
+div:nth-of-type(5) {
+    background-color: #ece2e1;
+}
+
+div:nth-of-type(1) h3 {
+    font-size: 30px;
+}
+
+div:nth-of-type(2) h3 {
+    font-family: monospace;
+}
+
+div:nth-of-type(3) {
+    font-variant: small-caps;
+}
+
+div:nth-of-type(4) {
+    color: azure;    
+}
+
+div:nth-of-type(5) {
+    font-size: 15px;
+}
+
+div:nth-of-type(2n+1) h3 {
+    font-style: italic;
+  }
+
+
+
+
