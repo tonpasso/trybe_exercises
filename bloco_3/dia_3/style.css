@@ -1,3 +1,23 @@
 div:hover {
-    border: 1px solid red;
+    border: 1px solid black;
+}
+
+div:nth-child(1n) {
+    background-color: red;
+}
+
+div:nth-child(2n) {
+    background-color: blue;
+}
+
+div:nth-child(3n) {
+    background-color: #da723c;
+}
+
+div:nth-child(4n) {
+    background-color: #161d6f;
+}
+
+div:nth-child(5n) {
+    background-color: #bbdfc8;
 }
