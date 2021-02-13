@@ -18,3 +18,11 @@ h1 em {
     font-size: 40px;
     border: 5px solid black;
 }
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: bold;
+}
