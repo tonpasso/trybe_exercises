@@ -16,7 +16,7 @@ h1, h3 {
 
 h1 em {
     font-size: 40px;
-    border: 5px solid black;
+    border: 1px solid black;
 }
 
 li {
@@ -33,4 +33,29 @@ li em {
 
 .pink {
     background-color: pink;
+}
+
+li#stack a:hover {
+    font-weight: bold;
+    color: orange;
+}
+
+li#w3 a:hover {
+    font-weight: bold;
+    color: rgb(3, 66, 3);
+}
+
+li#mdn a:hover {
+    font-weight: bold;
+    color: black;
+}
+
+li#dev a:hover {
+    font-weight: bold;
+    color: rgb(207, 207, 32);
+}
+
+li#trybe a:hover {
+    font-weight: bold;
+    color: rgb(52, 219, 52);
 }
