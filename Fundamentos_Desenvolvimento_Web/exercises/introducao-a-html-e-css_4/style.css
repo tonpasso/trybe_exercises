@@ -9,6 +9,14 @@ body {
   background: #e8ffff;
 }
 
+h1 {
+	color: #252525;
+}
+
+h3, a {
+	color: #252525;
+}
+
 #area-cabecalho {
   background-color: #0278ae;
 	padding: 15px;
@@ -28,4 +36,33 @@ body {
 #area-postagens {
 	width: 660px;
 	float: left;
+}
+
+#area-lateral {
+	width: 350px;
+	float: right;
+}
+
+#rodape {
+	clear: both;
+	color: #e8ffff;
+	text-align: center;
+	padding: 15px;	
+	background: #0f3057;
+}
+
+.postagem {
+	padding: 20px;
+}
+
+.postagem p{
+	text-align: justify;
+}
+
+.postagem ul li a {
+	color: black;
+}
+
+.conteudo-lateral {
+	padding: 20px;
 }
