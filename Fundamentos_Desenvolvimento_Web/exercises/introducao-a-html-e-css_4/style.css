@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 16px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background: #e8ffff;
+}
+
+h1 {
+	color: #252525;
+}
+
+h3, a {
+	color: #252525;
+}
+
+#area-cabecalho {
+  background-color: #0278ae;
+	padding: 15px;
+	text-align: center;
+}
+
+#area-logo, #area-menu {
+	padding: 10px;
+}
+
+#area-pricipal {
+	padding: 15px;
+	width: 920px;
+	margin: 0 auto;
+}
+
+#area-postagens {
+	width: 660px;
+	float: left;
+}
+
+#area-lateral {
+	width: 350px;
+	float: right;
+}
+
+#rodape {
+	clear: both;
+	color: #e8ffff;
+	text-align: center;
+	padding: 15px;	
+	background: #0f3057;
+}
+
+.postagem {
+	padding: 20px;
+}
+
+.postagem p{
+	text-align: justify;
+}
+
+.postagem ul li a {
+	color: black;
+}
+
+.conteudo-lateral {
+	padding: 20px;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+img {
+  width: 400px;	
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	color: #a4ebf3;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#area-cabecalho a:link, #area-cabecaho a:visited {	
+	padding: 8px 12px;
+}
