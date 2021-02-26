@@ -18,3 +18,14 @@ body {
 #area-logo, #area-menu {
 	padding: 10px;
 }
+
+#area-pricipal {
+	padding: 15px;
+	width: 920px;
+	margin: 0 auto;
+}
+
+#area-postagens {
+	width: 660px;
+	float: left;
+}
