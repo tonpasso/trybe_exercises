@@ -66,3 +66,32 @@ h3, a {
 .conteudo-lateral {
 	padding: 20px;
 }
+
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+img {
+  width: 400px;	
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	color: #a4ebf3;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#area-cabecalho a:link, #area-cabecaho a:visited {	
+	padding: 8px 12px;
+}
