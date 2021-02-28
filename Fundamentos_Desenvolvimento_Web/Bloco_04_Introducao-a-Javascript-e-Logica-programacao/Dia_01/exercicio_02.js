@@ -1,8 +1,8 @@
-let x = 25;
-let y = 13;
+let num1 = 25;
+let num2 = 13;
 
-if (x > y) {
-  console.log(x);
+if (num1 > num2) {
+  console.log(num1);
 } else {
-  console.log(y);
+  console.log(num2);
 }
