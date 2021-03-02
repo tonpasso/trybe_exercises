@@ -1,5 +1,5 @@
 
-let n = 11;
+let n = 8;
 let triangulo = '';
 let posicao = n;
 
