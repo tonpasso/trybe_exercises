@@ -1,4 +1,5 @@
-let n = 8;
+
+let n = 11;
 let triangulo = '';
 let posicao = n;
 
@@ -7,7 +8,7 @@ for (let indexLinha = 0; indexLinha < n; indexLinha++) {
     if (indexColuna < posicao) {
       triangulo += ' ';
     } else {
-      triangulo += '*';
+      triangulo += '* ';
     }
   }  
   console.log(triangulo);
