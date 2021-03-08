@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício 5.1</title>
+
+    <style>
+      div {
+        border-color: black;
+        border-style: solid;
+      }
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin: 0 auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="title">Exercício 5.1 - JavaEscripito </h1>
+    <div class="main-content">
+      <div class="center-content">
+        <p id="descricao">Texto padrão do nosso site</p>
+        <p>-----</p>
+        <p>Trybe</p>
+      </div>
+    </div>
+    <script>
+      function changeText() {
+        let text = document.getElementById('descricao');
+        text.innerText = 'Daqui a dois anos serei um Desenvolvedor Web Full-Stack.'
+      } 
+      changeText();
+
+      function changeContentToGreen() {
+        let contentGreen = document.getElementsByClassName('main-content')[0];
+        contentGreen.style.backgroundColor = 'rgb(76,164,109)';
+      }
+      changeContentToGreen();
+
+      function changeContentToWhite() {
+        let contentWhite = document.getElementsByClassName('center-content')[0];
+        contentWhite.style.backgroundColor = 'white';
+      }
+      changeContentToWhite();
+
+      function correctTitle() {
+        let title = document.getElementsByClassName('title')[0];
+        title.innerHTML = 'Exercício 5.1 - JavaScript';
+      }
+      correctTitle();
+
+      function toUpperCase() {
+        let sentence = document.getElementsByTagName('p')[0];
+        sentence.innerHTML = sentence.innerHTML.toUpperCase();
+      }
+      toUpperCase();
+
+      function consoleSentence() {
+        let sentence = document.getElementsByTagName('p');
+        for (let index in sentence) {
+          console.log(sentence[index].innerHTML)
+        }
+      }
+      consoleSentence();
+
+       
+        /*
+        Aqui você vai modificar os elementos já existentes utilizando apenas as funções:
+        - document.getElementById()
+        - document.getElementsByClassName()
+        - document.getElementsByTagName()
+  
+ 
+ 
+ Crie uma função que exiba o conteúdo de todas as tags <p> no console.
+        */
+    </script>
+  </body>
+</html>
