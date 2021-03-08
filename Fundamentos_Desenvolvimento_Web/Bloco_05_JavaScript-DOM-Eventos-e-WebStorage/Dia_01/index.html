@@ -69,9 +69,14 @@
       }
       toUpperCase();
 
-    
-  
-        
+      function consoleSentence() {
+        let sentence = document.getElementsByTagName('p');
+        for (let index in sentence) {
+          console.log(sentence[index].innerHTML)
+        }
+      }
+      consoleSentence();
+
        
         /*
         Aqui você vai modificar os elementos já existentes utilizando apenas as funções:
@@ -80,7 +85,7 @@
         - document.getElementsByTagName()
   
  
-  Crie uma função que modifique todo o texto da tag <p> para maiúsculo.
+ 
  Crie uma função que exiba o conteúdo de todas as tags <p> no console.
         */
     </script>
