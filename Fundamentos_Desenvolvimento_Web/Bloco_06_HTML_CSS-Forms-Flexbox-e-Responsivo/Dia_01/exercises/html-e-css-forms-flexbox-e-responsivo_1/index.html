@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1 id="titulo">Formulário para cadastro de currículo</h1>
+    <p id="subtitulo">Preencha os campos abaixo</p>
+    <br>
+  </header>
+
+  <form action="" method="get">
+
+    <fieldset>
+      <legend class="legenda">Dados Pessoais</legend>
+
+      <div class="line-content">
+        <label for="name">Nome:</label>     
+        <input type="text" id="name" maxlength="40" required>   
+      </div>
+      <div class="line-content">
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email" maxlength="50" required>
+      </div>
+      <div class="line-content">
+        <label for="cpf">CPF:</label>
+        <input type="text" name="cpf" id="cpf" maxlength="11" required>
+      </div>
+    </fieldset>
+  </form>
+  
+</body>
+</html>
