@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+#titulo {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #440a67;
+  margin: auto;
+}
+#subtitulo {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  color: #440a67;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+fieldset {
+  border: 0;
+}
+
+body {
+  background-color: #e4fbff;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1em;
+  margin-left: 35%;
+  margin-top: 2%;
+  color: #161d6f;
+  justify-content: center;
+}
+
+input textarea, select, button{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: #440a67;
+  border-radius: 5px;
+}
+
+textarea {
+  resize: none;
+}
+
+.legenda {
+  margin-bottom: 0.5em;
+  font-size: 1.5em;
+}
+ 
+/* Elementos de classe "grupo" nos estados das pseudoclasses "before" e "after" */
+.grupo:before, .grupo:after {
+  display: table;
+}
+
+/* Elementos de classe "grupo" no estado da pseudoclasse "after" */
+.grupo:after {
+  clear: both;
+}
+
+.line-content {
+  margin-bottom: 1em;
+}
+
+.line-content label {
+  margin-bottom: 0.5em;
+  color: #59429d;
+  display: block;
+}
+
+.line-content input[type='text'], .line-content input[type='email'], .line-content select, .line-content textarea {
+  padding: 0.2em;
+  border: 1px solid #59429d;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  display: block;
+}
+
+.line-content select option {
+  padding-right: 1em;
+}
+
+.line-content input:focus, .line-content select:focus, .line-content textarea:focus {
+  background-color: #f4f9f9;
+}
+
+.btn {
+  font-size: 1.2em;
+  background: #350b40;
+  color: #ffffff;
+  border: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 0.5em;
+  padding: 0.2em 0.6em;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5); 
+}
+
+.btn:hover {
+  background-color: #ccbbff;
+  box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
+  text-shadow: none;
+}
+
+.btn, select {
+  cursor: pointer;
+}
