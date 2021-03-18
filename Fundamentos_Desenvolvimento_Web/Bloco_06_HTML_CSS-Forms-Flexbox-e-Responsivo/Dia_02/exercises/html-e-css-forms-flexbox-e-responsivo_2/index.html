@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário</title>
+  <link rel="stylesheet" href="/node_modules/bulma/css/bulma.min.css">
+
+</head>
+<body>
+  <header>
+    <h1 id="titulo">Formulário para cadastro de currículo</h1>
+    <p id="subtitulo">Preencha os campos abaixo</p>
+    <br>
+  </header>
+
+  <form action="" method="get">
+
+    <fieldset>
+      <legend class="legenda">Dados Pessoais</legend>
+
+      <div class="line-content">
+        <label for="name">Nome:</label>     
+        <input type="text" id="name" maxlength="40" required>   
+      </div>
+      <div class="line-content">
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email" maxlength="50" required>
+      </div>
+      <div class="line-content">
+        <label for="cpf">CPF:</label>
+        <input type="text" name="cpf" id="cpf" maxlength="11" required>
+      </div>
+      <div class="line-content">
+        <label for="endereco">Endereço:</label>
+        <input type="text" name="endereco" id="endereco" maxlength="200" required>
+      </div>
+      <div class="line-content">
+        <label for="cidade">Cidade:</label>
+        <input type="text" name="cidade" id="cidae" maxlength="28" required>
+      </div>
+       <!--Combo box com lista de Estados-->
+       <div class="line-content">
+        <label for="estados">Estados:</label>
+        <select name="estados" id="estados" required>
+          <option selected disabled value="">Selecione</option>
+        </select>
+      </div>    
+      <div class="line-content">
+        <label for="casa-apartamento">Tipo de imóvel:</label>
+        <label for="casa"><input type="radio" name="casa-apartamento" id="casa" value="casa"> Casa</label>
+        <label for="apartamento"><input type="radio" name="casa-apartamento" id="apartamento" value="apartamento"> Apartamento</label>
+      </div>
+    </fieldset>
+    <br>
+    <fieldset class="grupo">
+      <legend class="legenda">Último Emprego</legend>
+      <div class="line-content">
+        <label for="resumo-curriculo">Resumo Currículo</label><br>
+        <textarea name="curriculo" id="resumo-curriculo" cols="30" rows="5" maxlength="1000" required></textarea>
+      </div>
+      <div class="line-content">
+        <label for="cargo">Cargo:</label>
+        <input type="text" name="cargo" id="cargo" maxlength="40" required>
+      </div>
+      <div class="line-content">
+        <label for="descricao-cargo">Descrição do cargo:</label>
+        <input type="text" name="descricao-cargo" id="descricao-cargo" maxlength="500" required>
+      </div>
+      <div class="line-content">
+        <label for="data-inicio">Data de Início</label>
+        <input type="text" name="data-inicio" class="input-data" value="" required>
+      </div>
+    </fieldset>
+
+    <div class="line-content">
+      <button class="submit-button btn" type="submit">Enviar</button>
+       <button class="clear-button btn" type="reset">Limpar</button>
+    </div> 
+  </form>
+  <script src="script.js"></script>
+</body>
+</html>
