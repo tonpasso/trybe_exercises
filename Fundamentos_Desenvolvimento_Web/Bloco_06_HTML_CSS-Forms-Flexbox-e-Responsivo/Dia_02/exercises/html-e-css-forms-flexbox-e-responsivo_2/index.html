@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+  <link rel="stylesheet" href="/node_modules/bulma/css/bulma.min.css">
+  
+
+</head>
+<body>
+  <header>
+    <h1 class="title" id="titulo">Formulário para cadastro de currículo</h1>
+    <p class="subtitle" id="subtitulo">Preencha os campos abaixo</p>
+    <br>
+  </header>
+
+  <form action="" method="get">
+
+    <fieldset>
+      <legend class="label">Dados Pessoais</legend>
+
+      <div class="field">
+        <label class="label" for="name">Nome:</label>     
+        <input type="text" id="name" maxlength="40" required>   
+      </div>
+
+      <div class="field">
+        <label class="label" for="email">Email:</label>
+        <input autocomplete="off" data-validate-field="email" placeholder="Digite seu email" class="email-input" type="email" name="email" id="email" maxlength="50" required aria-describedby="emailHelp">
+      </div>
+
+      <div class="field">
+        <label class="label" for="cpf">CPF:</label>
+        <input type="text" name="cpf" id="cpf" maxlength="11" required>
+      </div>
+      <div class="field">
+        <label class="label" for="endereco">Endereço:</label>
+        <input type="text" name="endereco" id="endereco" maxlength="200" required>
+      </div>
+      <div class="field">
+        <label class="label" for="cidade">Cidade:</label>
+        <input type="text" name="cidade" id="cidae" maxlength="28" required>
+      </div>
+       <!--Combo box com lista de Estados-->
+       <div class="field">
+        <label class="label" for="estados">Estados:</label>
+        <div class="select">
+          <select name="estados" id="estados" required>
+        </div>
+          <option selected disabled value="">Selecione</option>
+        </select>
+      </div>    
+      <!--Radio Button Tipo de Imóvel-->     
+      <div class="field">
+        <div class="control">
+          <label class="label" for="casa-apartamento">Tipo de imóvel:</label>
+          <label class="radio">
+            <input type="radio" name="question">
+            Casa
+          </label>
+          <label class="radio">
+            <input type="radio" name="question">
+            Apartamento
+          </label>
+        </div>
+      </div>
+
+    </fieldset>
+    <br>
+
+    <fieldset>
+      <legend class="label">Último Emprego</legend>
+
+      <div class="field">
+        <label class="label" for="resumo-curriculo">Resumo Currículo</label>
+        <div class="control">
+          <textarea class="textarea" name="curriculo" id="resumo-curriculo" cols="30" rows="5" maxlength="1000" required></textarea>
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="label" for="cargo">Cargo:</label>
+        <input type="text" name="cargo" id="cargo" maxlength="40" required>
+      </div>
+      <div class="field">
+        <label class="label" for="descricao-cargo">Descrição do cargo:</label>
+        <input type="text" name="descricao-cargo" id="descricao-cargo" maxlength="500" required>
+      </div>
+      <div class="field">
+        <label class="label" for="data-inicio">Data de Início</label>
+        <input autocomplete="off" data-validate-field="date" type="text" placeholder="DD/MM/AAAA" id="datepicker" name="start-date" required>
+      </div>
+    </fieldset=>
+
+    <!-- <div class="field">
+      <button class="submit-button btn" type="submit">Enviar</button>
+       <button class="clear-button btn" type="reset">Limpar</button>
+    </div>  -->
+
+    <div class="field is-grouped">
+      <div class="control">
+        <button class="button is-link">Enviar</button>
+      </div>
+      <div class="control">
+        <button class="button is-link is-light clear-button">Limpar</button>
+      </div>
+    </div>
+
+  </form>
+  <section class="form-data"></section>
+  <script src="pikaday.js"></script>
+  <script src="script.js"></script>
+  <script src="just-validate.min.js"></script>
+</body>
+</html>
