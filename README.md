@@ -93,3 +93,10 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 10-3: _Jest - Simulando comportamentos_ :heavy_check_mark:
 - [x] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
+## Desenvolvimento Front-end :heavy_check_mark:
+
+##### Bloco 11: Introdução - React :heavy_check_mark:
+
+- [ ] 11-1: _'Hello, world!' no React!_ :heavy_check_mark:
+- [ ] 11-2: _Componentes React_ :heavy_check_mark:
+- [ ] 11-3: _[Projeto - Movie Cards Library]()_
