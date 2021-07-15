@@ -216,51 +216,74 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [ ] 28-3: _NodeJS - Testando APIs com Testes de Integração_
 - [ ] 28-4: _[Projeto - Cookmaster]()_
 
-##### Bloco 29: NodeJS :hourglass_flowing_sand:
+##### Bloco 29: Deployment :hourglass_flowing_sand:
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
+- [ ] 29-1: _Introdução - Deploy_
+- [ ] 29-2: _Infraestrutura - Deploy com Heroku_
+- [ ] 29-3: _Deploy - Gerenciadores de Processos_
+- [ ] 29-4: _[Projeto - Stranger Things]()_
 
-##### Bloco 30: Introdução - Deploy :hourglass_flowing_sand:
+##### Bloco 30: Arquitetura: SOLID e ORM :hourglass_flowing_sand:
 
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 30-2: _Deploy - Gerenciadores de Processos_
-- [ ] 30-3: _[Projeto - Stranger Things]()_
+- [ ] 30-1: _Arquitetura - Princípios SOLID_
+- [ ] 30-2: _ORM - Interface da aplicação com o banco de dados_
+- [ ] 30-3: _ORM - Associations_
+- [ ] 30-4: _[Projeto - API de Blogs]()_
 
-##### Bloco 31: Projeto :hourglass_flowing_sand:
 
-- [ ] 31-1: _[Projeto - Trybeer]()_
+##### Bloco 31: Sockets :hourglass_flowing_sand:
 
-##### Bloco 32: Arquitetura de Software :hourglass_flowing_sand:
+- [ ] 31-1: _Arquitetura de Software - Camada de View_
+- [ ] 31-2: _Sockets - TCP/UDP & NET_
+- [ ] 31-3: _Sockets - Socket.io_
+- [ ] 31-4: _Sockets - Praticando Socket.io_
+- [ ] 31-5: _[Projeto - Webchat]()_
 
-- [ ] 32-1: _Arquitetura - Princípios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas práticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
+##### Bloco 32: Projeto :hourglass_flowing_sand:
 
-##### Bloco 33: Sockets :hourglass_flowing_sand:
-
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
-
-##### Bloco 34: Projeto :hourglass_flowing_sand:
-
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
+- [ ] 32-1: _[Projeto - Trybeer]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+##### Bloco 33: Arquitetura de Computadores e Redes :hourglass_flowing_sand:
 
-##### Bloco 36: Python :hourglass_flowing_sand:
+- [ ] 33-1: _Arquitetura de Computadores_
+- [ ] 33-2: _Arquitetura de redes_
+- [ ] 33-3: _Redes de computadores, ferramentas e segurança_
+- [ ] 33-4: _[Projeto - Explorando os protocolos]()_
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 36-4: _Entrada e Saída de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
+##### Bloco 34: Python :hourglass_flowing_sand:
+
+- [ ] 34-1: _Aprendendo Python_
+- [ ] 34-2: _Entrada e Saída de dados_
+- [ ] 34-3: _Raspagem de Dados_
+- [ ] 34-4: _Testes_
+- [ ] 34-5: _[Projeto - Tech news]()_
+
+##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto :hourglass_flowing_sand:
+
+- [ ] 35-1: _Introdução à programação orientada a objetos_
+- [ ] 35-2: _Herança, Composição e Interfaces_
+- [ ] 35-3: _Padrões de Projeto_
+- [ ] 34-4: _[Projeto - Relatórios de Estoque]()_
+
+##### Bloco 36: Algoritmos e Estrutura de Dados :hourglass_flowing_sand:
+
+- [ ] 36-1: _Complexidade de Algoritmos_
+- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
+- [ ] 36-3: _Algoritmos de ordenação e busca_
+- [ ] 36-4: _[Projeto - Algoritmos]()_
+
+##### Bloco 37: Estrutura de Dados: Hash e Set :hourglass_flowing_sand:
+
+- [ ] 37-1: _Arrays_
+- [ ] 37-2: _Hashmap e Dict_
+- [ ] 37-3: _Set_
+- [ ] 37-4: _[Projeto - Restaurant Orders]()_
+
+##### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas :hourglass_flowing_sand:
+
+- [ ] 38-1: _Nó e Listas Encadeadas_
+- [ ] 38-2: _Deque_
+- [ ] 38-3: _Pilhas_
+- [ ] 38-4: _[Projeto - TING - Trybe Is Not Google]()_
