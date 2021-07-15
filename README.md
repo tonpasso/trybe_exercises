@@ -37,8 +37,29 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Bloco 4: Introdução - JavaScript ✔️
 
-- [x] 4-1: _JavaScript - Primeiros passos_
-- [x] 4-2: _JavaScript - Array e loop For_
-- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [x] 4-4: _JavaScript - Objetos e funções_
+- [x] 4-1: _JavaScript - Primeiros passos_ :heavy_check_mark:
+- [x] 4-2: _JavaScript - Array e loop For_ :heavy_check_mark:
+- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_ :heavy_check_mark:
+- [x] 4-4: _JavaScript - Objetos e funções_ :heavy_check_mark:
 - [x] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-010-b-project-playground-functions/tree/wellington-passo-project-playground-functions)_
+
+##### Bloco 5: Introdução - JavaScript - Projetos :heavy_check_mark:
+
+- [ ] 5-1: _JavaScript - DOM e seletores_ :heavy_check_mark:
+- [ ] 5-2: _JavaScript - Trabalhando com elementos_ :heavy_check_mark:
+- [ ] 5-3: _JavaScript - Eventos_ :heavy_check_mark:
+- [ ] 5-4: _JavaScript - Web Storage_ :heavy_check_mark:
+- [ ] 5-5: _[Projeto - Arte com Pixels]()_
+- [ ] 5-6: _[Projeto - Lista de tarefas]()_
+- [ ] 5-7: _[Projeto - Meme Generator]()_
+- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+
+##### Bloco 6: HTML & CSS avançado :hourglass_flowing_sand:
+
+@@ -55,67 +55,67 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
+
+- [ ] 6-3: _CSS Flexbox - Part 1_
+- [ ] 6-4: _CSS Flexbox - Part 2_
+- [ ] 6-5: _CSS Responsivo - Mobile First_
+- [ ] 6-6: _[Projeto - Página inicial do Facebook](https://github.com/MarcelaSouza1995/trybe-exercises)_
