@@ -97,6 +97,54 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Bloco 11: Introdução - React :heavy_check_mark:
 
-- [ ] 11-1: _'Hello, world!' no React!_ :heavy_check_mark:
-- [ ] 11-2: _Componentes React_ :heavy_check_mark:
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [x] 11-1: _'Hello, world!' no React!_ :heavy_check_mark:
+- [x] 11-2: _Componentes React_ :heavy_check_mark:
+- [x] 11-3: _[Projeto - Movie Cards Library]()_
+
+##### Bloco 12: React :heavy_check_mark:
+
+- [x] 12-1: _Components com estado_ :heavy_check_mark:
+- [x] 12-2: _Eventos e formulários no React_ :heavy_check_mark:
+- [x] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+
+##### Bloco 13: React :heavy_check_mark:
+
+- [x] 13-1: _Ciclo de vida de componentes em React_ :heavy_check_mark:
+- [x] 13-2: _React Router_ :heavy_check_mark:
+- [x] 13-3: _[Projeto - Movie Cards Library CRUD]()_
+
+##### Bloco 14: Metodologias Ágeis :heavy_check_mark:
+
+- [x] 14-1: _Metodologias Ágeis_ :heavy_check_mark:
+- [x] 14-2: _[Projeto - Frontend Online Store]()_
+
+##### Bloco 15: Testes em React :heavy_check_mark:
+
+- [x] 15-1: _React Testing Library - Primeiros Passos_ :heavy_check_mark:
+- [x] 15-2: _React Testing Library - Mocks e Inputs_ :heavy_check_mark:
+- [x] 15-3: _React Testing Library - Testando React Router_ :heavy_check_mark:
+- [x] 15-4: _[Projeto - Testes em React]()_
+
+##### Bloco 16: Gerenciamento de estado com Redux :heavy_check_mark:
+
+- [x] 16-1: _Introdução ao Redux - O estado global da aplicação_ :heavy_check_mark:
+- [x] 16-2: _Usando o Redux no React_ :heavy_check_mark:
+- [x] 16-3: _Usando o Redux no React - Prática_ :heavy_check_mark:
+- [x] 16-4: _Usando o Redux no React - Actions Assíncronas_ :heavy_check_mark:
+- [x] 16-5: _Testes em React-Redux_ :heavy_check_mark:
+- [x] 16-6: _[Projeto - Trybe Wallet]()_
+
+##### Bloco 17: Projeto React :heavy_check_mark:
+
+- [x] 17-1: _[Projeto - Jogo de Trivia]()_
+
+##### Bloco 18: React & Context API :heavy_check_mark:
+
+- [x] 18-1: _Context API do React_ :heavy_check_mark:
+- [x] 18-2: _React Hooks - useState e useContext_ :heavy_check_mark:
+- [x] 18-3: _React Hooks - useEffect e Hooks customizados_ :heavy_check_mark:
+- [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+
+##### Bloco 19: Projeto Final de Front-end :heavy_check_mark:
+
+- [x] 19-1: _[Projeto - App de Receitas]()_
