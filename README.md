@@ -20,3 +20,17 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 - [x] 1-3: _Unix & Bash - Part 1_ :heavy_check_mark:
 - [x] 1-4: _Unix & Bash - Part 2_ :heavy_check_mark:
+
+##### Bloco 2: Git & GitHub :heavy_check_mark:
+
+- [x] 2-1: _O que é e para que serve?_ :heavy_check_mark:
+- [x] 2-2: _Entendendo os comandos_ :heavy_check_mark:
+- [x] 2-3: _Internet - Entendendo como ela funciona_ :heavy_check_mark:
+
+##### Bloco 3: Introdução - HTML & CSS :hourglass_flowing_sand:
+
+- [x] 3-1: _HTML & CSS - Estruturas de página_ :heavy_check_mark:
+- [x] 3-2: _HTML & CSS - Primeiros passos em CSS_ :heavy_check_mark:
+- [x] 3-3: _HTML & CSS - Seletores e posicionamento_ :heavy_check_mark:
+- [x] 3-4: _HTML Semântico_ :heavy_check_mark:
+- [x] 3-5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/tree/wellington-passo-lessons-learned-project)_
