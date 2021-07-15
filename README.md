@@ -27,10 +27,18 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 2-2: _Entendendo os comandos_ :heavy_check_mark:
 - [x] 2-3: _Internet - Entendendo como ela funciona_ :heavy_check_mark:
 
-##### Bloco 3: Introdução - HTML & CSS :hourglass_flowing_sand:
+##### Bloco 3: Introdução - HTML & CSS :heavy_check_mark:
 
 - [x] 3-1: _HTML & CSS - Estruturas de página_ :heavy_check_mark:
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_ :heavy_check_mark:
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_ :heavy_check_mark:
 - [x] 3-4: _HTML Semântico_ :heavy_check_mark:
 - [x] 3-5: _[Projeto - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/tree/wellington-passo-lessons-learned-project)_
+
+##### Bloco 4: Introdução - JavaScript ✔️
+
+- [x] 4-1: _JavaScript - Primeiros passos_
+- [x] 4-2: _JavaScript - Array e loop For_
+- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [x] 4-4: _JavaScript - Objetos e funções_
+- [x] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-010-b-project-playground-functions/tree/wellington-passo-project-playground-functions)_
