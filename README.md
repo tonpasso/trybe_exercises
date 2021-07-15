@@ -45,21 +45,21 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ##### Bloco 5: Introdução - JavaScript - Projetos :heavy_check_mark:
 
-- [ ] 5-1: _JavaScript - DOM e seletores_ :heavy_check_mark:
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_ :heavy_check_mark:
-- [ ] 5-3: _JavaScript - Eventos_ :heavy_check_mark:
-- [ ] 5-4: _JavaScript - Web Storage_ :heavy_check_mark:
-- [ ] 5-5: _[Projeto - Arte com Pixels]()_
-- [ ] 5-6: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Meme Generator]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [x] 5-1: _JavaScript - DOM e seletores_ :heavy_check_mark:
+- [x] 5-2: _JavaScript - Trabalhando com elementos_ :heavy_check_mark:
+- [x] 5-3: _JavaScript - Eventos_ :heavy_check_mark:
+- [x] 5-4: _JavaScript - Web Storage_ :heavy_check_mark:
+- [x] 5-5: _[Projeto - Arte com Pixels]()_
+- [x] 5-6: _[Projeto - Lista de tarefas]()_
+- [x] 5-7: _[Projeto - Meme Generator]()_
+- [x] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [x] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avançado :hourglass_flowing_sand:
+##### Bloco 6: HTML & CSS avançado :heavy_check_mark:
 
-@@ -55,67 +55,67 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
-
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - Página inicial do Facebook](https://github.com/MarcelaSouza1995/trybe-exercises)_
+- [x] 6-1: _HTML & CSS - Forms_ :heavy_check_mark:
+- [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_ :heavy_check_mark:
+- [x] 6-3: _CSS Flexbox - Part 1_ :heavy_check_mark:
+- [x] 6-4: _CSS Flexbox - Part 2_ :heavy_check_mark:
+- [x] 6-5: _CSS Responsivo - Mobile First_ :heavy_check_mark:
+- [x] 6-6: _[Projeto - Página inicial do Facebook](https://github.com/tryber/sd-010-b-project-facebook-signup/tree/wellington-joao-facebook-project)_
