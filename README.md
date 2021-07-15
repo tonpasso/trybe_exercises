@@ -151,7 +151,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
+##### Bloco 20: Introdução à SQL
 
 - [ ] 20-1: _Banco de dados SQL_
 - [ ] 20-2: _Encontrando dados em um banco de dados_
@@ -159,34 +159,34 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [ ] 20-4: _Manipulando tabelas_
 - [ ] 20-5: _[Projeto - All For One]()_
 
-##### Bloco 21: Bancos de dados relacionais :hourglass_flowing_sand:
+##### Bloco 21: Funções SQL, Joins e Subqueries :hourglass_flowing_sand:
 
 - [ ] 21-1: _Funções mais usadas no SQL_
 - [ ] 21-2: _Descomplicando JOINs e UNIONs_
 - [ ] 21-3: _Stored Routines & Subqueries_
 - [ ] 21-4: _[Projeto - Vocabulary Booster]()_
 
-##### Bloco 22: Bancos de dados relacionais :hourglass_flowing_sand:
+##### Bloco 22: Normalização e Modelagem de Banco de Dados :hourglass_flowing_sand:
 
 - [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
 - [ ] 22-2: _Normalização, Formas Normais e Dumps_
 - [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
 - [ ] 22-3: _[Projeto - One For All]()_
 
-##### Bloco 23: Introdução - NoSQL :hourglass_flowing_sand:
+##### Bloco 23: Introdução ao MongoDB :hourglass_flowing_sand:
 
-- [ ] 23-1: _MongoDB - Introdução_
+- [ ] 23-1: _Introdução - NoSQL_
 - [ ] 23-2: _Filter Operators_
 - [ ] 23-3: _[Projeto - Data Flights]()_
 
-##### Bloco 24: Updates :hourglass_flowing_sand:
+##### Bloco 24: MongoDB: Updates :hourglass_flowing_sand:
 
 - [ ] 24-1: _Updates Simples_
 - [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
 - [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
 - [ ] 24-4: _[Projeto - Commerce]()_
 
-##### Bloco 25: Aggregation Framework :hourglass_flowing_sand:
+##### Bloco 25: MongoDB: Aggregation Framework :hourglass_flowing_sand:
 
 - [ ] 25-1: _Aggregation Framework - Part 1_
 - [ ] 25-2: _Aggregation Framework - Part 2_
@@ -196,20 +196,25 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 - [ ] 26-1: _NodeJS - Introdução_
 - [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
+- [ ] 26-3: _Testes com NodeJS_
+- [ ] 26-4: _Express: HTTP com Node.js_
+- [ ] 26-5: _Praticando Express_ 
+- [ ] 26-6: _[Projeto - Talker Manager]()_
 
-##### Bloco 27: NodeJS :hourglass_flowing_sand:
+##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful :hourglass_flowing_sand:
 
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 27-3: _[Projeto - Cookmaster]()_
+- [ ] 27-1: _Introdução - Arquitetura de Software - Camada de Model_
+- [ ] 27-2: _Arquitetura de Software - Camada de Controller e Service_
+- [ ] 27-3: _Arquitetura Web - Rest e Restful_
+- [ ] 27-4: _Arquitetura de Software - Testando as Camadas_
+- [ ] 27-5: _[Projeto - Store Manager]()_
 
-##### Bloco 28: NodeJS :hourglass_flowing_sand:
+##### Bloco 28: Autenticação e Upload de Arquivos :hourglass_flowing_sand:
 
-- [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
+- [ ] 28-1: _NodeJS - JWT_
+- [ ] 28-2: _NodeJS - Upload de arquivos com `multer`_
+- [ ] 28-3: _NodeJS - Testando APIs com Testes de Integração_
+- [ ] 28-4: _[Projeto - Cookmaster]()_
 
 ##### Bloco 29: NodeJS :hourglass_flowing_sand:
 
