@@ -287,3 +287,5 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [ ] 38-2: _Deque_
 - [ ] 38-3: _Pilhas_
 - [ ] 38-4: _[Projeto - TING - Trybe Is Not Google]()_
+
+### _[Entre em contato](https://www.linkedin.com/in/wellington-passo/)_
