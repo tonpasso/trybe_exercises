@@ -16,3 +16,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 
 ## Introdução - Desenvolvimento Web :white_check_mark:
 
+##### Bloco 1: Introdução - Unix & Shell :heavy_check_mark:
+
+- [x] 1-3: _Unix & Bash - Part 1_ :heavy_check_mark:
+- [x] 1-4: _Unix & Bash - Part 2_ :heavy_check_mark:
