@@ -157,7 +157,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [ ] 20-2: _Encontrando dados em um banco de dados_
 - [ ] 20-3: _Filtrando dados de forma específica_
 - [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [ ] 20-5: _[Projeto - All For One](https://github.com/tryber/sd-010-b-mysql-all-for-one/tree/wellington-passo-mysql-all-for-one)_
 
 ##### Bloco 21: Funções SQL, Joins e Subqueries :hourglass_flowing_sand:
 
