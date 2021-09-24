@@ -173,48 +173,48 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
 - [x] 22-3: _[Projeto - One For All](https://github.com/tryber/sd-010-b-mysql-one-for-all/pull/8)_
 
-##### Bloco 23: Introdução ao MongoDB :hourglass_flowing_sand:
+##### Bloco 23: Introdução ao MongoDB :heavy_check_mark:
 
-- [ ] 23-1: _Introdução - NoSQL_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [x] 23-1: _Introdução - NoSQL_
+- [x] 23-2: _Filter Operators_
+- [x] 23-3: _[Projeto - Data Flights](https://github.com/tryber/sd-010-b-mongodb-dataflights/pull/28)_
 
-##### Bloco 24: MongoDB: Updates :hourglass_flowing_sand:
+##### Bloco 24: MongoDB: Updates :heavy_check_mark:
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
+- [x] 24-1: _Updates Simples_
+- [x] 24-2: _Updates Complexos - Arrays - Parte 1_
+- [x] 24-3: _Updates Complexos - Arrays - Parte 2_
+- [x] 24-4: _[Projeto - Commerce](https://github.com/tryber/sd-010-b-mongodb-commerce/pull/25)_
 
-##### Bloco 25: MongoDB: Aggregation Framework :hourglass_flowing_sand:
+##### Bloco 25: MongoDB: Aggregation Framework :heavy_check_mark:
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [x] 25-1: _Aggregation Framework - Part 1_
+- [x] 25-2: _Aggregation Framework - Part 2_
+- [x] 25-3: _[Projeto - Aggregations](https://github.com/tryber/sd-010-b-mongodb-aggregations/pull/27)_
 
-##### Bloco 26: Intro - NodeJS :hourglass_flowing_sand:
+##### Bloco 26: Intro - NodeJS :heavy_check_mark:
 
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _Testes com NodeJS_
-- [ ] 26-4: _Express: HTTP com Node.js_
-- [ ] 26-5: _Praticando Express_ 
-- [ ] 26-6: _[Projeto - Talker Manager]()_
+- [x] 26-1: _NodeJS - Introdução_
+- [x] 26-2: _NodeJS - Fluxo Assíncrono_
+- [x] 26-3: _Testes com NodeJS_
+- [x] 26-4: _Express: HTTP com Node.js_
+- [x] 26-5: _Praticando Express_ 
+- [x] 26-6: _[Projeto - Talker Manager](https://github.com/tryber/sd-010-b-project-talker-manager/pull/45)_
 
-##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful :hourglass_flowing_sand:
+##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful :heavy_check_mark:
 
-- [ ] 27-1: _Introdução - Arquitetura de Software - Camada de Model_
-- [ ] 27-2: _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 27-3: _Arquitetura Web - Rest e Restful_
-- [ ] 27-4: _Arquitetura de Software - Testando as Camadas_
-- [ ] 27-5: _[Projeto - Store Manager]()_
+- [x] 27-1: _Introdução - Arquitetura de Software - Camada de Model_
+- [x] 27-2: _Arquitetura de Software - Camada de Controller e Service_
+- [x] 27-3: _Arquitetura Web - Rest e Restful_
+- [x] 27-4: _Arquitetura de Software - Testando as Camadas_
+- [x] 27-5: _[Projeto - Store Manager](https://github.com/tryber/sd-010-b-store-manager/pull/91)_
 
-##### Bloco 28: Autenticação e Upload de Arquivos :hourglass_flowing_sand:
+##### Bloco 28: Autenticação e Upload de Arquivos :heavy_check_mark:
 
-- [ ] 28-1: _NodeJS - JWT_
-- [ ] 28-2: _NodeJS - Upload de arquivos com `multer`_
-- [ ] 28-3: _NodeJS - Testando APIs com Testes de Integração_
-- [ ] 28-4: _[Projeto - Cookmaster]()_
+- [x] 28-1: _NodeJS - JWT_
+- [x] 28-2: _NodeJS - Upload de arquivos com `multer`_
+- [x] 28-3: _NodeJS - Testando APIs com Testes de Integração_
+- [x] 28-4: _[Projeto - Cookmaster]()_
 
 ##### Bloco 29: Deployment :hourglass_flowing_sand:
 
