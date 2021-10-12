@@ -214,7 +214,7 @@ The program has more than 1,500 hours of classroom and online classes and covers
 - [x] 28-1: _NodeJS - JWT_
 - [x] 28-2: _NodeJS - Upload de arquivos com `multer`_
 - [x] 28-3: _NodeJS - Testando APIs com Testes de Integração_
-- [x] 28-4: _[Projeto - Cookmaster]()_
+- [x] 28-4: _[Projeto - Cookmaster](https://github.com/tryber/sd-010-b-cookmaster/pull/85)_
 
 ##### Bloco 29: Deployment :hourglass_flowing_sand:
 
